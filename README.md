@@ -21,4 +21,4 @@ Pls fork this
 
 ### Copyright
 
-Only left
+Only left. All lefts reserved.

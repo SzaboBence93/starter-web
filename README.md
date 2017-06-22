@@ -17,6 +17,8 @@ twice is nice
 
 ## How to contribute
 
+Pls fork this
+
 ### Copyright
 
 Only left

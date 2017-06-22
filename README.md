@@ -8,6 +8,11 @@ intro
 
 ## Purpose
 
+purpose
+
 ## Deployment
+
+deployment
+twice is nice
 
 ## How to contribute

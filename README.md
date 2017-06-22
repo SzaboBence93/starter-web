@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a rizsa szöveg.
+Rebase.
 
 ## Intro
 

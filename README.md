@@ -16,3 +16,7 @@ deployment
 twice is nice
 
 ## How to contribute
+
+### Copyright
+
+Only left
